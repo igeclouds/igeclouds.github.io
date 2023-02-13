@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Appystudio-spaces-master",
+			"path": "."
+		}
+	],
+	"settings": {
+		"DockerRun.DisableDockerrc": true,
+		"liveshare.alwaysFollowHost": true,
+		"liveshare.diagnosticLogging": true,
+		"liveshare.diagnosticMode": true,
+		"liveshare.languages.allowGuestCommandControl": true,
+		"liveshare.presence": true,
+		"liveshare.publishWorkspaceInfo": true
+	}
+}
